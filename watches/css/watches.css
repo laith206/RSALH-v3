@@ -183,12 +183,12 @@ nav{
 /* ------------------------------------- */
 /* Start Header */
 header{
-    height: 100vh;
+    height: 70vh;
     width: 100%;
     
 }
 header .swiper-container {
-    height: 100vh;
+    height: 70vh;
     width: 100%;
 }
 .swiper-slide {
